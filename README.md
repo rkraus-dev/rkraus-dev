@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**rkraus-dev/rkraus-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Robert**, a Fullstack Developer based in Germany.
 
-Here are some ideas to get you started:
+After 8 years in 2nd Level IT Support, I’ve decided to return to my roots in software development. I’m currently leveraging **The Odin Project** to sharpen my skills and transition into a professional Fullstack role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile serves as my technical lab. While my code lives here, you can find a more personal look at my background, my journey, and my goals over at **[rkaus.dev](https://rkaus.dev)**.
+
+My current focus is on **React, Node.js, and MongoDB**, with a strong emphasis on **Test-Driven Development (TDD)**. Outside of coding, I enjoy the precision of 3D modeling and printing.
+
+Feel free to check out my repositories as they grow. If you want to connect or talk about tech, you can find me on the platforms below!
+
+### Connect with me:
+
+[LinkedIn](https://linkedin.com/in/robert-kraus-82aa642a9) | [Xing](https://www.xing.com/profile/Robert_Kraus054531)
+
+---
+
+### Fun Facts:
+
+* **Tech Passion:** I love taking things apart to understand how they work—whether it's a buggy block of code or a broken household appliance. If it’s broken, I’ll probably try to fix it.
+* **Creative Tool:** I use **Blender** to design and 3D print functional parts for everyday use.
+* **Daily Routine:** Code, Gym, Sleep — Repeat. (No coffee needed, I run on logic).
+* **Support Logic:** 8 years in 2nd Level Support taught me: The answer is almost always in the documentation — you just have to find it.
