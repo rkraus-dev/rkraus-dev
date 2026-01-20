@@ -10,8 +10,8 @@ My current focus is on **deepening my Full Stack expertise**, with a strong emph
 
 ### Connect with me:
 
-[LinkedIn](https://linkedin.com/in/robert-kraus-82aa642a9) | [Xing](https://www.xing.com/profile/Robert_Kraus054531)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-kraus-82aa642a9)
+[![XING](https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Robert_Kraus054531)
 ---
 
 ### Fun Facts:
