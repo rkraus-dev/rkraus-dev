@@ -16,7 +16,7 @@ Now I apply that same mindset to writing clean, maintainable C# code.
 
 This GitHub profile is my technical lab — every repo here is a step on that path.
 
-For a more personal look at my background and goals, visit **[rkaus.dev](https://rkaus.dev)**.
+For a more personal look at my background and goals, visit **[rkraus.dev](https://rkraus.dev)**.
 
 
 ---
